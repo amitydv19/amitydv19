@@ -1,5 +1,5 @@
-<center>
-<b>Hi, I'm Amit Kumar Ray<br>I'm passionate Full Stack Developer (MERN) from India</b>
+
+Hi, I'm <b>Amit Kumar Ray<b><br>I'm passionate <b>Full Stack Developer (MERN)<b> from India</b>
 
 
 
