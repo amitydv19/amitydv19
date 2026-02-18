@@ -1,9 +1,8 @@
-
 <h1>
-  Hi, I'm 
-  <img src="https://readme-typing-svg.herokuapp.com?color=00BCD4&size=35&lines=Amit+Kumar+Ray" />
+  Hi, I'm <span style="color:#00bcd4; font-weight: bold;">
+    Amit Kumar Ray
+  </span>
 </h1>
-
 
 <br>I'm passionate <b>Full Stack Developer (MERN)</b> from India</b>
 
