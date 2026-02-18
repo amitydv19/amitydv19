@@ -1,12 +1,9 @@
 
 <h1>
   Hi, I'm 
-  <span style="background: linear-gradient(90deg, #00bcd4, #ff00ff);
-               -webkit-background-clip: text;
-               -webkit-text-fill-color: transparent;">
-    Amit Kumar Ray
-  </span>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00BCD4&size=35&lines=Amit+Kumar+Ray" />
 </h1>
+
 
 <br>I'm passionate <b>Full Stack Developer (MERN)</b> from India</b>
 
