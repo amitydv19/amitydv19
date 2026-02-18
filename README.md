@@ -1,5 +1,10 @@
 
-Hi, I'm <span style="color:#00bcd4;">Amit Kumar Ray</span>
+<h1>
+  Hi, I'm <span style="color:#00bcd4; font-weight: bold;">
+    Amit Kumar Ray
+  </span>
+</h1>
+
 <br>I'm passionate <b>Full Stack Developer (MERN)</b> from India</b>
 
 
