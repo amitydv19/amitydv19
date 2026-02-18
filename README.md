@@ -1,6 +1,11 @@
 
 <h1>
-  Hi, I'm <span style="color:#00bcd4;">Amit Kumar Ray</span>
+  Hi, I'm 
+  <span style="background: linear-gradient(90deg, #00bcd4, #ff00ff);
+               -webkit-background-clip: text;
+               -webkit-text-fill-color: transparent;">
+    Amit Kumar Ray
+  </span>
 </h1>
 
 <br>I'm passionate <b>Full Stack Developer (MERN)</b> from India</b>
