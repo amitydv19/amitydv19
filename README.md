@@ -4,7 +4,7 @@
   </span>
 </h1>
 
-<br>I'm passionate <b>Full Stack Developer (MERN)</b> from India</b>
+<b>Full Stack Developer (MERN)</b>
 
 
 
